@@ -1,5 +1,13 @@
 # Rohith-RK-naiduM
 
+<h1 align="center">Hi 👋, I'm Rohith</h1>
+<h3 align="center">Software Engineer | Banking Domain | Agentic AI & Payments</h3>
+
+<p align="center">
+  🚀 Building intelligent systems with Agentic AI & scalable backend services  
+  💳 Payments • 🤖 AI Agents • 🌐 Full-Stack Engineering  
+</p>
+
 
 👋 Hi, I’m Rohith — Software Engineer with experience in the banking domain, specializing in Agentic AI, Payments, and full-stack development.
 
