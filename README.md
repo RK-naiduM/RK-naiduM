@@ -1,4 +1,4 @@
-# Rohith-RK-naiduM
+# Rohith-Rohith-Movva
 
 <h1 align="center">Hi 👋, I'm Rohith</h1>
 <h3 align="center">Software Engineer | Banking Domain | Agentic AI & Payments</h3>
@@ -62,13 +62,13 @@ I enjoy building:
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK-naiduM&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-Movva&theme=tokyonight" />
 </p>
 
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RK-naiduM&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohith-Movva&theme=tokyo-night)
 
 ## 🤝 Let’s Connect
 
